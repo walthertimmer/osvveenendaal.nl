@@ -1,3 +1,8 @@
+---
+layout: single
+author_profile: false
+---
+
 We hanteren de Privacywetgeving AVG.
 
 Instructeurs en trainers zijn in bezit van VOG verklaring.
