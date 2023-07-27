@@ -14,7 +14,7 @@ Ook is er een specifieke groep voor de duikers die op het moment een opleiding v
 
 Naast het duiken zijn er ook leuke "verenigingszaken" zoals een jaarlijkse BBQ en een gezamenlijk drankje na een verenigingsduik. 
 
-[osv-secretariaat@hotmail.com](mailto:osv-secretariaat@hotmail.com)
+Mail ons op [osv-secretariaat@hotmail.com](mailto:osv-secretariaat@hotmail.com)
 
 #### Het bestuur
 Het bestuur van de vereniging bestaat uit:
