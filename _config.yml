@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "OSV Veenendaal"
 description              : "Onderwater Sport Vereniging Veenendaal"
-url                      : #"https://osvveenendaal.nl/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://osvveenendaal.nl/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "walthertimmer/osvveenendaal.nl" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/duikvereniging-osv.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
