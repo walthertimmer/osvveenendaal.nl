@@ -17,6 +17,4 @@ Hou je ook zoveel van duiken en kom je uit de regio Veenendaal? Voel je dan vrij
 
 Wil je graag een keer meeduiken? Neem dan vooral [contact op!](/contact/)
 
-![duiker](/assets/duiker.png){:class="img-responsive"}
-![duiker2](assets/duiker.png)
-![duiker3](assets/images/duiker.png)
+![duiker](assets/images/duiker.png)
