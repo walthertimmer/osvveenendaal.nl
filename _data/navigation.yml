@@ -4,6 +4,10 @@ main:
     url: "./wie-zijn-wij/"
   - title: "Wat doen wij?"
     url: "./wat-doen-wij/"  
+  - title: "Privacy"
+    url: "./privacy/"  
+  - title: "Contact"
+    url: "./contact/"  
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
