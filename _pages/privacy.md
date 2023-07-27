@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 permalink: /privacy/
 ---
-
+## Privacy
 We hanteren de Privacywetgeving AVG.
 
 Instructeurs en trainers zijn in bezit van VOG verklaring.
