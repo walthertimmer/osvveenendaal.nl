@@ -4,7 +4,7 @@ author_profile: false
 permalink: /privacy/
 ---
 
-## Privacy  
+#### Privacy  
 
 We hanteren de Privacywetgeving AVG.
 

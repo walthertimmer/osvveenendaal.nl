@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 permalink: /wat-doen-wij/
 ---
-## Wat doen wij
+#### Wat doen wij
 Als duikvereniging organiseren wij het gehele jaar door duiken. 
 
 Elke maandagavond trainen we van negen tot half elf in het Valleibad in Veenendaal. We trainen op conditie en onze instructeurs leiden mensen op in het duiken.  Je kan een 1* brevet halen en verder gaan voor brevet twee en drie*. Als men nog verder wil gaan, kan je opgeleid worden voor instructeur.
