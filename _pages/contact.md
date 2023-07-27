@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-permalink: contact
+permalink: /contact/
 ---
 
 Hoe met ons contact opnemen?

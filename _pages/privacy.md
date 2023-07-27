@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-permalink: privacy
+permalink: /privacy/
 ---
 
 We hanteren de Privacywetgeving AVG.
