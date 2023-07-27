@@ -19,7 +19,7 @@ locale                   : "nl-NL"
 title                    : "Duikvereniging OSV"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "OSV"
+name                     : "OSV Veenendaal"
 description              : "Onderwater Sport Vereniging Veenendaal"
 url                      : "https://osvveenendaal.nl/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
