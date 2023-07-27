@@ -4,6 +4,8 @@ main:
     url: "./wie-zijn-wij/"
   - title: "Wat doen wij?"
     url: "./wat-doen-wij/"  
+  - title: "Documenten"
+    url: "./documenten/" 
   - title: "Privacy"
     url: "./privacy/"  
   - title: "Contact"
