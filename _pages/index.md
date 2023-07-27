@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 permalink: /
 ---
-# Welkom bij OSV!  
+### Welkom bij OSV!  
 
 ![OSV Veenendaal](/assets/images/duikvereniging-osv.jpg){:class="img-responsive"}
 
