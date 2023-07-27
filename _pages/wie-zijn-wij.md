@@ -1,3 +1,9 @@
+---
+layout: single
+author_profile: false
+permalink: /wie-zijn-wij/
+---
+
 Duikvereniging OSV Veenendaal is in 1976 opgericht . De Duikvereniging is begonnen met zeven personen. Nu bestaat de duikvereniging uit ongeveer veertig leden.
 
 Duikvereniging OSV Veenendaal is aangesloten bij de Nederlandse Onderwatersport Bond (NOB). Bij Duikvereniging OSV Veenendaal kan men een duikopleiding volgen, de duikvaardigheid bijhouden in buitenwater en het zwembad. Ook kan men de vaardigheid uitbreiden met onderwaterfotografie, biologie, wrakduiken en andere specialty’s. Daarnaast kan men genieten van de onderwatersport in binnen- en buitenland.
