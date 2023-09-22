@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 permalink: /wat-doen-wij/
-name: OSV | Wat doen wij
+name: Wat doen wij
 ---
 #### Wat doen wij
 Als duikvereniging organiseren wij het gehele jaar door duiken. 
