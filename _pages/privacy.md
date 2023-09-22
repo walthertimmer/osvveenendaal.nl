@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 permalink: /privacy/
-title: OSV | Privacy
+title: Privacy
 ---
 
 #### Privacy  
