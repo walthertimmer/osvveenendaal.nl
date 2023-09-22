@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 permalink: /
-title: OSV | Home
+title: Home
 ---
 #### Welkom bij OSV!  
 
