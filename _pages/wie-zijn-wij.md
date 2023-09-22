@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 permalink: /wie-zijn-wij/
-title: OSV | Wie zijn wij
+title: Wie zijn wij
 ---
 #### Wie zijn wij
 Duikvereniging OSV Veenendaal is in 1976 opgericht . De Duikvereniging is begonnen met zeven personen. Nu bestaat de duikvereniging uit ongeveer veertig leden.
