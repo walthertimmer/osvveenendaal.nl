@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 permalink: /contact/
-title: OSV | Contact
+title: Contact
 ---
 
 #### Contact
