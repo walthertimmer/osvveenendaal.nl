@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 permalink: /documenten/
-title: OSV | Documenten
+title: Documenten
 ---
 
 #### Documenten
