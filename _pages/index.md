@@ -7,6 +7,7 @@ title: Home
 #### Welkom bij OSV!  
 
 ![OSV Veenendaal](/assets/images/duikvereniging-osv.jpg){:class="img-responsive"}
+![OSV Veenendaal](/assets/images/Introductieduik2023.jpg){:class="img-responsive"}
 
 Welkom op de website van duikvereniging onderwater sport vereniging (OSV) Veenendaal. Op deze website lees je meer over wie wij zijn en wat wij doen.
 
