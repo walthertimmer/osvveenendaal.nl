@@ -6,6 +6,8 @@ main:
     url: "./wat-doen-wij/"  
   - title: "Documenten"
     url: "./documenten/" 
+  - title: "Introductieduik"
+    url: "./introductieduik/" 
   - title: "Privacy"
     url: "./privacy/"  
   - title: "Contact"
