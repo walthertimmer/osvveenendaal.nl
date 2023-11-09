@@ -21,11 +21,11 @@ Mail ons op [osv-secretariaat@hotmail.com](mailto:osv-secretariaat@hotmail.com)
 Het bestuur van de vereniging bestaat uit:
 
 William Emmerik, voorzitter  
-Luke van der Steen, secretaris     
+Luke van der Steen, secretaris ( 06 - 16 96 76 69 )
 Bert ten Haaf, penningmeester   
 Eric Schumacher, bestuurslid + trainingscommissie  
 Nick Capelle, bestuurslid + materiaalcommissie  
-[Walther Timmer, bestuurslid PR & sponsoring](mailto:walthertimmer@protonmail.com)  
+[Walther Timmer, bestuurslid](mailto:walthertimmer@protonmail.com)  
 
 Naast deze bestuursleden zijn er ook nog diverse commissies zoals de trainingscommissie en materiaalcommissie. Plus de diverse duikinstructeurs.
 
