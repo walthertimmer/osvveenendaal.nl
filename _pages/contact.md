@@ -21,7 +21,7 @@ Mail ons op [osv-secretariaat@hotmail.com](mailto:osv-secretariaat@hotmail.com)
 Het bestuur van de vereniging bestaat uit:
 
 William Emmerik, voorzitter  
-Luke van der Steen, secretaris ( 06 - 16 96 76 69 )
+Luke van der Steen, secretaris ( 06 - 16 96 76 69 )  
 Bert ten Haaf, penningmeester   
 Eric Schumacher, bestuurslid + trainingscommissie  
 Nick Capelle, bestuurslid + materiaalcommissie  
