@@ -4,6 +4,7 @@ author_profile: false
 permalink: /introductieduik/
 name: Introductieduik
 ---
+  
 #### Introductieduik  
 
 Heb je nog nooit gedoken of is het wellicht lang geleden? Als vereniging bieden we de mogelijkheid om vrijblijvend een keer langs te komen en te duiken met materiaal van de vereniging zodat je het duiken een keer kunt ervaren.  
