@@ -30,3 +30,9 @@ Nick Capelle, bestuurslid + materiaalcommissie
 Naast deze bestuursleden zijn er ook nog diverse commissies zoals de trainingscommissie en materiaalcommissie. Plus de diverse duikinstructeurs.
 
 [Bekijk ook onze Instagram pagina!](https://www.instagram.com/osvveenendaal/)  
+
+#### Privacy  
+Wij hanteren de privacywetgeving AVG.  
+Instructeurs en trainers zijn in bezit van VOG verklaring.  
+Ook hebben we een vertrouwenspersoon in de vereniging.  
+Neem bij vragen contact op met het bestuur.  
