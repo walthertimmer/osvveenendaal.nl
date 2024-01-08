@@ -10,6 +10,8 @@ main:
     url: "./introductieduik/" 
   - title: "Privacy"
     url: "./privacy/"  
+  - title: "Kosten"
+    url: "./kosten/"  
   - title: "Contact"
     url: "./contact/"  
   #- title: "Quick-Start Guide"
