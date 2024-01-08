@@ -4,7 +4,8 @@ author_profile: false
 permalink: /wat-doen-wij/
 name: Wat doen wij
 ---
-#### Wat doen wij
+  
+#### Wat doen wij  
 Als duikvereniging organiseren wij het gehele jaar door duiken. 
 
 Elke maandagavond trainen we van negen tot half elf in het Valleibad in Veenendaal. We trainen op conditie en onze instructeurs leiden mensen op in het duiken.  Je kan een 1* brevet halen en verder gaan voor brevet twee en drie*. Als men nog verder wil gaan, kan je opgeleid worden voor instructeur.
@@ -15,4 +16,4 @@ We trainen veel in de zoetwaterplassen in de regio. De duikleider neemt de duike
 
 OSV heeft een eigen materiaalruimte bij zwembad De Vallei en ze hebben een compressor om flessen te vullen met perslucht. Het is natuurlijk wel belangrijk dat er onder water geademd kan worden. Het vullen van de flessen is gratis, wel moet er aan bepaalde eisen worden voldaan. Zo moeten de flessen geregistreerd staan bij de materiaalcommissie en de flessen moeten periodiek gekeurd worden. Meestal om de vijf jaar. Dit met het oog op de veiligheid van de duikers en de vuller. Het vullen van de flessen wordt gedaan door leden van de vulcommissie, de administratie van de flessen worden bijgehouden. Alle geregistreerde flessen zijn voorzien van een sticker van OSV en hebben een nummer. Ook is daarbij de keuringsdatum van de fles vastgelegd.
 
-[Aanmelden?](/contact/)
+[Neem bij vragen vooral contact met ons op. Wij verwelkomen je graag bij de club.](/contact/)
