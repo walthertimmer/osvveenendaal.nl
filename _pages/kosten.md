@@ -16,3 +16,5 @@ Lidmaatschap van een vereniging is veelal een goedkopere manier om de duiksport 
 
 ![opleidingen](https://onderwatersport.org/wp-content/uploads/2023/12/opleidingen.jpg)  
 [Meer informatie over de duikopleidingen van de NOB vindt je op deze link.](https://onderwatersport.org/voor-duikers/duikopleidingen/)  
+
+[Wil je lid worden of een specifieke opleiding bij ons volgen neem dan contact op.](/contact/)
