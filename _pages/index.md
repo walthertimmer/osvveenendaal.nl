@@ -16,6 +16,8 @@ Hou je ook zoveel van duiken en kom je uit de regio Veenendaal? Voel je dan vrij
 
 [Lees meer over onze activiteiten hier](/wat-doen-wij/)
 
-Wil je graag een keer meeduiken? Neem dan vooral [contact op!](/contact/)
+[Lees meer over introductieduiken hier](/introductieduik/)
+
+Wil je graag een maandje meeduiken en onze vereniging ervaren? Neem dan vooral [contact op!](/contact/)
 
 ![duiker](assets/images/duiker.png)
