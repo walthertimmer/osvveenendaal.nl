@@ -5,7 +5,7 @@ permalink: /snorkelcursus/
 title: Snorkel Cursus
 ---
 
-#### Snorkel Cursus
+#### Snorkelcursus
 
 Ga je binnenkort op vakantie en zou je graag van al de geweldige natuur die onder water bestaat gaan genieten?  
 Droom je ervan om de wonderen van de onderwaterwereld te verkennen?   
