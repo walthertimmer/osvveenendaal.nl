@@ -10,6 +10,8 @@ main:
     url: "./snorkelcursus/"
   - title: "Contact"
     url: "./contact/"
+  - title: "Duikcompressor"
+    url: "./duikcompressor/"
   - title: "Bestuur"
     url: "./bestuur/"
   - title: "Kosten"
