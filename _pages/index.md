@@ -8,10 +8,6 @@ title: Home
 
 ![OSV Veenendaal](/assets/images/duikvereniging-osv.jpg){:class="img-responsive"}
 
-## OPENDAG 14 OKTOBER 2024  
-
-Wij hebben maandagavond 14 oktober 2024 onze opendag. Wil je duiken een keer gratis ervaren? Meld je dan nu aan! Je krijgt een korte introductie over duiken en het onderwaterleven in Nederland. Mail of app nu je aanmelding naar onze secretaris Luke: osv-secretariaat@hotmail.com / 06 - 16 96 76 69. Locatie is Zwembad Veenendaal.
-
 ## Welkom
 
 Welkom op de website van duikvereniging onderwater sport vereniging (OSV) Veenendaal. Op deze website lees je meer over wie wij zijn en wat wij doen.
