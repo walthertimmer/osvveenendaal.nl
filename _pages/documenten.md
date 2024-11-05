@@ -9,11 +9,12 @@ title: Documenten
 
 Op deze pagina een verzameling documenten die handig zijn voor de verenigingsleden.  
 
+[Trainingsschema 2024-2025](Trainingsschema_2024-2025_final.pdf)  
 [2024 OSV duikschema](/assets/docs/osv_buitenschema_duikstekken.pdf)   
 [2023 Winter training schema zwembad + EHBO](/assets/docs/2023_WinterSchema_Zwembadschema_Reanimatie_en_ehbo.pdf)  
 [2023 BuitenDuikschema](/assets/docs/DUIKSTEKKEN_OSV_2023.pdf)  
 [Handgebaren kaarten](/assets/docs/kaartjes_handsignalen.pdf)  
-[Clubreglement OSV](/assets/docs/Clubreglement_OSV.pdf)
-[Huishoudelijk Regelement OSV](/assets/docs/Huishoudelijk_Regelement_OSV.pdf)
+[Clubreglement OSV](/assets/docs/Clubreglement_OSV.pdf)  
+[Huishoudelijk Regelement OSV](/assets/docs/Huishoudelijk_Regelement_OSV.pdf)  
 
 [Mis je iets? Neem contact met ons op!](/contact/)
