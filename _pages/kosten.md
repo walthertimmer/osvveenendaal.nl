@@ -10,14 +10,9 @@ Om lid te zijn van OSV Veenendaal dient er eenmalig inschrijfgeld van € 10,-- 
   
 Opleidingskosten zijn € 95,-- voor zowel de 1-sters, 2-sters als 3-sters opleiding (incl. lespakket en brevetregistratiekaart).  
 
-|Vergelijking Kosten Tabel|OSV Veenendaal|4Divers Veenendaal|DiscoveryDivers Veenendaal|
-|-------------------------|--------------|------------------|--------------------------|
-|NOB 1* (PADI Open Water)|E95,-          |E445,-            |E599,-                    |
-|NOB 2* (PADI Advanced Open Water)|E95,- |E285,-            |E399,-                    |  
+Een commerciele opleiding voor open water bij bijvoorbeeld Padi, SSI of IDD kost vaak ruim 400 euro.
+Bij OSV kost dit, samen met het lidmaatschap, nog geen 275 euro, en heb je het voordeel van onder andere het lidmaatschap bij de bond (NOB) inclusief duikverzekering, het hele jaar de mogelijkheid om in het zwembad te oefenen, altijd een buddy, buddy's met ervaring en kennis in veel verschillende specialiteiten en veel meer.
 
-Discovery Divers prijzen: https://www.ddivers.nl/het-begin-van-je-duikavontuur/discover-scuba-diving/  
-4Divers prijzen: https://www.dive4all.nl/cursussen/prijzen  
-  
 Bij het lidmaatschap van OSV Veenendaal wordt je ook ingeschreven bij de Nederlandse Onderwatersport Bond (NOB). Dit zit bij het lidmaatschapstarief in. Naast een duikverzekering zijn er nog andere voordelen aan het lidmaatschap van NOB; [deze lees je hier terug.](https://onderwatersport.org/de-nob/ledenvoordeel/ledenvoordeel-onderwatersporters/)  
   
 Lidmaatschap van een vereniging is veelal een goedkopere manier om de duiksport te boefenen dan via een commerciele partij. Zo kun je via onze vereniging praktisch alle door de NOB aangeboden opleidingen en trainingen tegen een scherp tarief volgen omdat wij als vereniging veelal met vrijwillige instructeurs werken. Plus na je lidmaatschap heb je een leuke groep om gezamenlijk mee te duiken.  
