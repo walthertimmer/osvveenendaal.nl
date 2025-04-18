@@ -3,7 +3,9 @@ layout: single
 author_profile: false
 permalink: /
 title: Home
+description: "OSV Veenendaal is een gezellige duikvereniging met trainingen in zwembad Veenendaal. Wij bieden introductieduiken, NOB opleidingen en gezamenlijke duiktrips in Nederland"
 ---
+
 # Scuba duikvereniging Veenendaal
 
 ![OSV Veenendaal](/assets/images/duikvereniging-osv.jpg){:class="img-responsive"}
@@ -28,6 +30,8 @@ Wil je een keer meeduiken of vrijblijvend kennismaken met onze club? Je bent van
 
 [Lees meer over onze activiteiten hier](/wat-doen-wij/)
 
+[Bekijk hier onze duiklocaties](/duiklocaties/)
+
 [Lees meer over introductieduiken hier](/introductieduik/)
 
 [Neem contact met ons op voor een proefduik!](/contact/)
@@ -35,4 +39,3 @@ Wil je een keer meeduiken of vrijblijvend kennismaken met onze club? Je bent van
 ![duiker](assets/images/duiker.png)
 
 Duik mee met OSV Veenendaal – iedere duik een avontuur!
-

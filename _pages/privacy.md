@@ -9,7 +9,7 @@ title: Privacy
 
 We hanteren de Privacywetgeving AVG.
 
-Instructeurs en trainers zijn in bezit van VOG verklaring.
+Instructeurs en trainers zijn in bezit van een VOG verklaring.
 
 Ook hebben we een vertrouwenspersoon in de vereniging.
 

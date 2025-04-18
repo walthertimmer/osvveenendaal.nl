@@ -3,6 +3,7 @@ layout: single
 author_profile: false
 permalink: /bestuur/
 title: Bestuur
+description: "Bekijk de bestuursleden van duikvereniging OSV Veenendaal."
 ---
 
 #### Het bestuur

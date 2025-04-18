@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 permalink: /introductieduik/
-name: Introductieduik
+title: Introductieduik
 ---
   
 #### Introductieduik  
