@@ -4,15 +4,25 @@ author_profile: false
 permalink: /
 title: Home
 ---
-#### Welkom bij OSV!  
+# Scuba duikvereniging Veenendaal
 
 ![OSV Veenendaal](/assets/images/duikvereniging-osv.jpg){:class="img-responsive"}
 
-## Welkom
+## Welkom bij OSV - iedere duik een avontuur!
 
-Welkom op de website van duikvereniging onderwater sport vereniging (OSV) Veenendaal. Op deze website lees je meer over wie wij zijn en wat wij doen.
+Ben je op zoek naar een gezellige en actieve duikvereniging in Veenendaal? Dan ben je bij Onderwatersport Vereniging (OSV) Veenendaal aan het juiste adres! Wij zijn een enthousiaste groep sportduikers die regelmatig samen trainen en duiken op verschillende mooie locaties in Nederland.
 
-Hou je ook zoveel van duiken en kom je uit de regio Veenendaal? Voel je dan vrij om contact op te nemen om eens mee te trainen of te duiken. Ook als je nog nooit gedoken hebt en dit graag wilt veranderen bieden wij diverse NOB trainingen aan om veilig en leuk te leren duiken. Tijdens trainingen kan er ook gebruik gemaakt worden van materiaal van de vereniging. 
+Of je nu een ervaren duiker bent of net wilt beginnen met duiken – bij OSV ben je van harte welkom. We bieden introductieduiken en erkende NOB duikopleidingen aan voor iedereen die op een veilige en leuke manier wil leren duiken. Tijdens de trainingen kun je gebruikmaken van het materiaal van de vereniging, ideaal als je nog niet over je eigen uitrusting beschikt.
+
+Onze vereniging beschikt over een eigen ruimte in het zwembad in Veenendaal waar we ons duikmateriaal opslaan en onderhouden. Daarnaast hebben we de beschikking over een eigen duikcompressor, waarmee we onze duikflessen zelf kunnen vullen. Zo zijn we volledig zelfvoorzienend en kunnen we snel en efficiënt voorbereiden op trainingen en duiktrips.
+
+🔹 Duiken in Nederland – Van Veenendaal tot Zeeland: we organiseren duiken op diverse locaties
+🔹 Trainingen & opleidingen – Voor zowel beginners als gevorderde duikers
+🔹 Actieve vereniging – Met regelmatig leuke duikevenementen en clubactiviteiten
+🔹 Gratis maand proefduiken – Ontdek of duiken iets voor jou is
+🔹 Eigen materiaalruimte & compressor – Alles onder één dak in zwembad Veenendaal
+
+Wil je een keer meeduiken of vrijblijvend kennismaken met onze club? Je bent van harte welkom om een maandje mee te trainen en de sfeer te proeven. 
 
 [Lees meer over onze historie hier](/wie-zijn-wij/)
 
@@ -20,6 +30,9 @@ Hou je ook zoveel van duiken en kom je uit de regio Veenendaal? Voel je dan vrij
 
 [Lees meer over introductieduiken hier](/introductieduik/)
 
-Wil je graag een maandje meeduiken en onze vereniging ervaren? Neem dan vooral [contact op!](/contact/)
+[Neem contact met ons op voor een proefduik!](/contact/)
 
 ![duiker](assets/images/duiker.png)
+
+Duik mee met OSV Veenendaal – iedere duik een avontuur!
+
