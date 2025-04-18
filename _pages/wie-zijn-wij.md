@@ -3,6 +3,7 @@ layout: single
 author_profile: false
 permalink: /wie-zijn-wij/
 title: Wie zijn wij
+description: "OSV Veenendaal is een NOB-duikvereniging opgericht in 1976. Met zo'n 40 leden trainen we wekelijks in het Valleibad en organiseren duiken in binnen- en buitenland."
 ---
 #### Wie zijn wij
 ![OSV Veenendaal](/assets/images/groetjes-osv.jpg)

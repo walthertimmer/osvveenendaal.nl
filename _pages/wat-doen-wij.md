@@ -2,7 +2,8 @@
 layout: single
 author_profile: false
 permalink: /wat-doen-wij/
-name: Wat doen wij
+title: Wat doen wij
+description: "Wekelijkse duiktrainingen, duikopleidingen en gezamenlijke duiktrips in binnen- en buitenland. Bij OSV Veenendaal kun je duikvaardigheden ontwikkelen en genieten van diverse duikactiviteiten."
 ---
   
 #### Wat doen wij  

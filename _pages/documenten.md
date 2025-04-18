@@ -3,6 +3,7 @@ layout: single
 author_profile: false
 permalink: /documenten/
 title: Documenten
+description: "Op deze pagina een verzameling documenten die handig zijn voor de verenigingsleden."
 ---
 
 #### Documenten
