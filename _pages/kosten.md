@@ -12,7 +12,7 @@ Opleidingskosten zijn € 95,-- voor zowel de 1-sters, 2-sters als 3-sters oplei
 
 Een commerciele opleiding voor open water bij bijvoorbeeld Padi, SSI of IDD kost vaak ruim 400-700 euro.
 Bij OSV kost dit, samen met het lidmaatschap, nog geen 305 euro, en heb je het voordeel van onder andere het lidmaatschap bij de bond (NOB) inclusief duikverzekering, het hele jaar de mogelijkheid om in het zwembad te oefenen, altijd een buddy, buddy's met ervaring en kennis in veel verschillende specialiteiten en veel meer.
-Bovendien komen er ook nog aanvullende kosten bij voor materiaalhuur en het vullen van je duikfles. Dit is niet-commercieel simpelweg goedkoper. 
+Bovendien komen er bij andere partijen vaak ook nog aanvullende kosten bij voor materiaalhuur en het vullen van je duikfles. Het vullen is bij ons onderdeel van je lidmaatschap en veelal kan materiaal binnen de club geleend worden. 
 
 Bij het lidmaatschap van OSV Veenendaal wordt je ook ingeschreven bij de Nederlandse Onderwatersport Bond (NOB). Dit zit bij het lidmaatschapstarief in. Naast een duikverzekering zijn er nog andere voordelen aan het lidmaatschap van NOB; [deze lees je hier terug.](https://onderwatersport.org/de-nob/ledenvoordeel/ledenvoordeel-onderwatersporters/)  
   
