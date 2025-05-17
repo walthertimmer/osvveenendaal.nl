@@ -10,6 +10,7 @@ description: "Op deze pagina een verzameling documenten die handig zijn voor de 
 
 Op deze pagina een verzameling documenten die handig zijn voor de verenigingsleden.  
 
+[2025 Buitenduikschema](/assets/docs/2025_osv_buitenduikschema.pdf)  
 [Trainingsschema 2024-2025](/assets/docs/Trainingsschema_2024-2025_final.pdf)  
 [2024 OSV duikschema](/assets/docs/osv_buitenschema_duikstekken.pdf)   
 [2023 Winter training schema zwembad + EHBO](/assets/docs/2023_WinterSchema_Zwembadschema_Reanimatie_en_ehbo.pdf)  
