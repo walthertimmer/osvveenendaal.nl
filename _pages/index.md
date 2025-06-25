@@ -34,7 +34,9 @@ Wil je een keer meeduiken of vrijblijvend kennismaken met onze club? Je bent van
 
 [Lees meer over introductieduiken hier](/introductieduik/)
 
-[Neem contact met ons op voor een proefduik!](/contact/)
+[Zin om een keer op proef mee te duiken? Vul ons formulier in!](https://forms.gle/m65W1JCuBNnB5Rjd8)   
+
+[Onze contactgegevens vind je hier](/contact/)
 
 ![duiker](assets/images/duiker.png)
 
