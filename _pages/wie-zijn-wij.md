@@ -6,17 +6,31 @@ title: Wie zijn wij
 description: "OSV Veenendaal is een NOB-duikvereniging opgericht in 1976. Met zo'n 40 leden trainen we wekelijks in het Valleibad en organiseren duiken in binnen- en buitenland."
 ---
 #### Wie zijn wij
-![OSV Veenendaal](/assets/images/groetjes-osv.jpg)
-Duikvereniging OSV Veenendaal is in 1976 opgericht . De Duikvereniging is begonnen met zeven personen. Nu bestaat de duikvereniging uit ongeveer veertig leden.
+![OSV Veenendaal](/assets/images/groetjes-osv.jpg)  
 
-Duikvereniging OSV Veenendaal is aangesloten bij de Nederlandse Onderwatersport Bond (NOB). Bij Duikvereniging OSV Veenendaal kan men een duikopleiding volgen, de duikvaardigheid bijhouden in buitenwater en het zwembad. Ook kan men de vaardigheid uitbreiden met onderwaterfotografie, biologie, wrakduiken en andere specialty’s. Daarnaast kan men genieten van de onderwatersport in binnen- en buitenland.
+Duikvereniging OSV Veenendaal is in 1976 opgericht en begonnen met slechts zeven enthousiaste leden. Inmiddels zijn we uitgegroeid tot een actieve vereniging met ongeveer veertig leden.  
 
-Elke maandagavond trainen we van negen tot half elf in het zwembad (de Vallei) in Veenendaal. Na de training zijn we in het sportcafé van het Valleibad te vinden om daar onder het genot van een drankje na te praten. We trainen onder andere de conditie en vaardigheden. Tevens leiden onze instructeurs leden op voor duikbrevetten of specialty’s. In zes maanden kan men het 1* brevet halen en vervolgens verder gaan voor 2* brevet en 3* brevet.
+We zijn aangesloten bij de Nederlandse Onderwatersport Bond (NOB). Binnen onze vereniging kun je terecht voor duikopleidingen, het onderhouden van je duikvaardigheden in zowel zwembad als buitenwater, en het volgen van verschillende specialisaties zoals onderwaterfotografie, biologie, wrakduiken en meer. Daarnaast organiseren we regelmatig duiken in binnen- en buitenland om volop te genieten van de onderwatersport.  
 
-Daarnaast trainen we (vanaf mei tot met oktober) in verschillende zoetwaterplassen in de regio, zoals ‘De Groene Heuvels’ in Wijchen, in een plas bij Cuijk en bij Zaltbommel. Ook duiken we in zoutwater. Bijvoorbeeld in de Grevelingen, de Oosterschelde en de Noordzee in Zeeland. De duikleider neemt de duikers mee naar een plas en er wordt gedoken volgens de clubregels. Veiligheid is erg belangrijk. We duiken dan ook altijd met een ‘buddy’. Jaarlijks gaan er ook leden naar het buitenland, zoals Egypte of Indonesië, om daar te duiken.
+##### Training en opleiding 
 
-Duikvereniging OSV Veenendaal heeft een eigen materiaalruimte in het zwembad en is in het bezit van een compressor om duikflessen met perslucht te vullen. Het is natuurlijk wel belangrijk dat er onder water geademd kan worden. De duikflessen worden door de leden van de vulcommissie van de vereniging gevuld en is gratis. Wel dient er aan bepaalde eisen te worden voldaan. Zo dienen de duikflessen bij de materiaalcommissie van de duikvereniging geregistreerd te staan en dienen de duikflessen periodiek (om de vijf jaar) gekeurd te worden. Dit met het oog op de veiligheid van de duikers en de vulcommissie.  
+Elke maandagavond trainen we van 21:00 tot 22:30 uur in zwembad De Vallei in Veenendaal. Na afloop praten we gezellig na in het sportcafé van het zwembad. Tijdens de trainingen werken we aan conditie, duikvaardigheden en worden leden opgeleid tot gebrevetteerde duikers. Binnen zes maanden kun je het 1*-brevet behalen, waarna je verder kunt voor het 2*- en 3*-brevet. Onze gediplomeerde instructeurs begeleiden je hierbij.
+
+##### Buitenduiken 
+
+Van mei tot en met oktober duiken we regelmatig in verschillende zoetwaterplassen in de regio, zoals De Groene Heuvels bij Wijchen, een plas bij Cuijk en bij Zaltbommel. Daarnaast trekken we er ook op uit om in zoutwater te duiken, bijvoorbeeld in de Grevelingen, de Oosterschelde en de Noordzee in Zeeland. Elke buitenduik wordt geleid door een duikleider en verloopt volgens onze clubregels, waarbij veiligheid altijd voorop staat. We duiken altijd met een buddy.  
+
+Elk jaar gaan er ook leden mee op duikreizen naar het buitenland, bijvoorbeeld naar Egypte of Indonesië, om daar te genieten van spectaculaire duiklocaties.  
+
+##### Materiaal en faciliteiten
+
+Onze vereniging beschikt over een eigen materiaalruimte in zwembad De Vallei en heeft een eigen compressor voor het vullen van duikflessen. Deze worden kosteloos gevuld door de leden van de vulcommissie, mits de flessen geregistreerd zijn bij de materiaalcommissie en periodiek (eens per vijf jaar) gekeurd worden. Dit is essentieel voor de veiligheid van zowel de duikers als de vulcommissie.
+
+##### Nieuwe leden welkom!
   
-We hopen als duikvereniging te groeien en verwelkomen graag nieuwe leden. Jaarlijks organiseren we dan ook een ‘Open Avond’ zodat mensen met het duiken en de duikvereniging kennis kunnen maken. Duikvereniging OSV Veenendaal verwacht van ieder nieuw lid dat ze binnen een maand na de aanmelding een medische duikkeuring ondergaan. Voor examens is te allen tijde een medische keuring vereist. Huidige leden van de duikvereniging laten zich vaak de bij polikliniek in Ede keuren. Veiligheid staat op een hoog niveau bij Duikvereniging OSV.  
-  
-[Neem voor meer informatie contact met ons op.](/contact/)
+We groeien graag verder en verwelkomen met plezier nieuwe leden. Jaarlijks organiseren we een ‘Open Avond’ waar geïnteresseerden kennis kunnen maken met de duiksport en onze vereniging. Maar ook buiten deze open avond is het eigenlijk bijna elke maandag mogelijk om een keer mee te duiken of een keer een proefduik in het zwembad te maken.
+
+[Zin om een keer op proef mee te duiken? Vul ons formulier in!](https://forms.gle/m65W1JCuBNnB5Rjd8) 
+
+[Heb je nog andere vragen voor je een duik wilt wagen? Mail ons dan vooral. We verwelkomen je graag.](/contact/)
+
