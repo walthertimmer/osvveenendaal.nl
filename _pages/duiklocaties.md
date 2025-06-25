@@ -42,6 +42,6 @@ Tijdens deze buitenduiken passen we de in het zwembad geleerde technieken toe in
 
 Naast onze reguliere duiklocaties organiseren we ook regelmatig duiktrips naar het buitenland, zoals Egypte. Deze reizen zijn een geweldige kans om tropisch te duiken en de internationale onderwaterwereld te ontdekken.
 
-[Bekijk ons actuele duikschema bij documenten](/documenten/)
+[Bekijk ons actuele duikschema bij documenten](/documenten/)  
 
-[Interesse om met ons mee te duiken? Neem contact op!](/contact/)
+[Zin om mee te duiken? Vul ons formulier in!](https://forms.gle/m65W1JCuBNnB5Rjd8)    
