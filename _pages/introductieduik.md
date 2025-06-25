@@ -15,4 +15,6 @@ Deze introductieduik zal veelal binnen plaats vinden in het zwembad zodat je eer
 
 Lijkt dit je wat? Neem dan contact met ons op!  
 
-[Neem contact op!](/contact/)
+[Vul ons formulier in en wij zullen contact met je opnemen voor je proefduik!](https://forms.gle/m65W1JCuBNnB5Rjd8)
+
+[Heb je nog andere vragen? Stuur ons dan een mail. We helpen je graag.](/contact/)
