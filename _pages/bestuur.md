@@ -11,7 +11,7 @@ description: "Bekijk de bestuursleden van duikvereniging OSV Veenendaal."
 Het bestuur van de vereniging bestaat uit:
 
 - William Emmerik, voorzitter  
-- Luke van der Steen, secretaris ( 06 - 16 96 76 69 )  
+- Luke van der Steen, secretaris  
 - Rob Zwanink, penningmeester   
 - Eric Schumacher, bestuurslid + trainingscommissie  
 - Rob Zeestraten, bestuurslid + materiaalcommissie  
