@@ -7,14 +7,35 @@ description: "Wekelijkse duiktrainingen, duikopleidingen en gezamenlijke duiktri
 ---
   
 #### Wat doen wij  
-Als duikvereniging organiseren wij het gehele jaar door duiken. 
 
-Elke maandagavond trainen we van negen tot half elf in het Valleibad in Veenendaal. We trainen op conditie en onze instructeurs leiden mensen op in het duiken.  Je kan een 1* brevet halen en verder gaan voor brevet twee en drie*. Als men nog verder wil gaan, kan je opgeleid worden voor instructeur.
+Duikvereniging OSV Veenendaal organiseert het hele jaar door duiken, trainingen en opleidingen voor zowel beginnende als gevorderde duikers.
 
-Bij OSV Veenendaal kan men een duikopleiding volgen, de duikvaardigheid bijhouden in  buitenwater en het zwembad. Ook kan men de vaardigheid uitbreiden met onderwater fotografie, biologie en wrakduiken. Daarnaast kan men genieten van de onderwatersport in binnen en buitenland. We zijn een NOB vereniging maar ook als je bij een andere organisatie bent aangesloten , dan ben je natuurlijk ook welkom.
+##### Wekelijkse training
 
-We trainen veel in de zoetwaterplassen in de regio. De duikleider neemt de duikers mee naar een plas en er wordt gedoken volgens de clubregels. Veiligheid is erg belangrijk. We duiken dan ook altijd met een ‘buddy’ , die regelt de duiker zelf of de club doet dat. We gaan regelmatig naar het buitenland, naar Egypte bijvoorbeeld, om te duiken. Dit doen we omdat het leuk is om ook de onderwaterwereld in andere landen te ontdekken en ook daar mooie onderwaterfoto’s te kunnen maken. Er wordt verder ook af en toe een trip richting Zeeland georganiseerd om het drukke onderwaterleven daar te bewonderen. 
+Elke maandagavond trainen we van 21:00 tot 22:30 uur in het Valleibad in Veenendaal. Tijdens deze trainingen werken we aan onze conditie en duikvaardigheden. Onze gediplomeerde instructeurs geven hier ook duikopleidingen. Je kunt bij ons beginnen met een 1*-brevet en doorgroeien naar 2* of 3*. Wie verder wil, kan zelfs worden opgeleid tot instructeur.
 
-OSV heeft een eigen materiaalruimte bij zwembad De Vallei en ze hebben een compressor om flessen te vullen met perslucht. Het is natuurlijk wel belangrijk dat er onder water geademd kan worden. Het vullen van de flessen is gratis, wel moet er aan bepaalde eisen worden voldaan. Zo moeten de flessen geregistreerd staan bij de materiaalcommissie en de flessen moeten periodiek gekeurd worden. Meestal om de vijf jaar. Dit met het oog op de veiligheid van de duikers en de vuller. Het vullen van de flessen wordt gedaan door leden van de vulcommissie, de administratie van de flessen worden bijgehouden. Alle geregistreerde flessen zijn voorzien van een sticker van OSV en hebben een nummer. Ook is daarbij de keuringsdatum van de fles vastgelegd.
+##### Opleidingen & specialisaties
+
+Bij OSV kun je niet alleen je basisbrevet halen, maar ook je vaardigheden uitbreiden met specialisaties zoals:
+
+- Onderwaterfotografie
+- Onderwaterbiologie
+- Wrakduiken
+
+We trainen en duiken in zowel het zwembad als in open water. Ook organiseren we regelmatig clubduiken in zoetwaterplassen in de regio. Elke duik gebeurt onder begeleiding van een duikleider en volgens onze veiligheidsregels. Duiken doe je bij ons altijd met een buddy – iemand die je zelf meebrengt of die we voor je regelen.
+
+##### Duiken in binnen- en buitenland
+
+Naast duiken in de regio, maken we ook graag uitstapjes naar Zeeland en zelfs naar het buitenland. Populaire bestemmingen zijn bijvoorbeeld Egypte, waar je de kleurrijke onderwaterwereld kunt ontdekken en prachtige foto's kunt maken.
+
+##### Materiaal en faciliteiten
+
+OSV Veenendaal beschikt over een eigen materiaalruimte bij zwembad De Vallei en een eigen compressor om duikflessen met perslucht te vullen. Voor onze leden is het vullen van flessen kosteloos.
+
+##### Voor iedereen toegankelijk
+
+OSV is aangesloten bij de Nederlandse Onderwatersport Bond (NOB), maar ook duikers die via een andere organisatie zijn opgeleid zijn van harte welkom.
+
+[Zin om een keer op proef mee te duiken? Vul ons formulier in!](https://forms.gle/m65W1JCuBNnB5Rjd8)
 
 [Neem bij vragen vooral contact met ons op. Wij verwelkomen je graag bij de club.](/contact/)
