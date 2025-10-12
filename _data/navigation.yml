@@ -14,15 +14,19 @@ main:
     url: "./snorkelcursus/"
   - title: "Duikcompressor"
     url: "./duikcompressor/"
-  - title: "Bestuur"
-    url: "./bestuur/"
   - title: "Kosten"
     url: "./kosten/"
-  - title: "Privacy"
-    url: "./privacy/"
-  - title: "Documenten"
-    url: "./documenten/"
-    
+  - title: "Vereniging"
+    children:
+    - title: "duikopleidingen"
+      url: "./duikopleidingen/"
+    - title: "Bestuur"
+      url: "./bestuur/"
+    - title: "Privacy"
+      url: "./privacy/"
+    - title: "Documenten"
+      url: "./documenten/"
+
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
