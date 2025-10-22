@@ -10,9 +10,9 @@ description: "OSV Veenendaal is een gezellige duikvereniging met trainingen in z
 
 ![OSV Veenendaal](/assets/images/duikvereniging-osv.jpg){:class="img-responsive"}
 
-## Opendagen
+## Opendag 19 januari 2026
 
-Maandagavond 20 oktober 2025 houden wij een openavond. Wil je hier meer over lezen [klik dan hier](/opendag/) of meld je snel aan via ons [formulier](https://forms.gle/m65W1JCuBNnB5Rjd8).
+Maandagavond 19 januari 2026 houden wij een openavond. Wil je hier meer over lezen [klik dan hier](/opendag/) of meld je snel aan via ons [formulier](https://forms.gle/m65W1JCuBNnB5Rjd8). Vind je dit te lang wachten? Vul dan ons formulier in en plan een introductieduik op een ander moment.  
 
 ## Welkom bij OSV - iedere duik een avontuur!
 
@@ -22,11 +22,11 @@ Of je nu een ervaren duiker bent of net wilt beginnen met duiken – bij OSV ben
 
 Onze vereniging beschikt over een eigen ruimte in het zwembad in Veenendaal waar we ons duikmateriaal opslaan en onderhouden. Daarnaast hebben we de beschikking over een eigen duikcompressor, waarmee we onze duikflessen zelf kunnen vullen. Zo zijn we volledig zelfvoorzienend en kunnen we snel en efficiënt voorbereiden op trainingen en duiktrips.
 
-🔹 Duiken in Nederland – Van Veenendaal tot Zeeland: we organiseren duiken op diverse locaties
-🔹 Trainingen & opleidingen – Voor zowel beginners als gevorderde duikers
-🔹 Actieve vereniging – Met regelmatig leuke duikevenementen en clubactiviteiten
-🔹 Gratis maand proefduiken – Ontdek of duiken iets voor jou is
-🔹 Eigen materiaalruimte & compressor – Alles onder één dak in zwembad Veenendaal
+🔹 Duiken in Nederland – Van Veenendaal tot Zeeland: we organiseren duiken op diverse locaties  
+🔹 Trainingen & opleidingen – Voor zowel beginners als gevorderde duikers  
+🔹 Actieve vereniging – Met regelmatig leuke duikevenementen en clubactiviteiten  
+🔹 Gratis maand proefduiken – Ontdek of duiken iets voor jou is  
+🔹 Eigen materiaalruimte & compressor – Alles onder één dak in zwembad Veenendaal  
 
 Wil je een keer meeduiken of vrijblijvend kennismaken met onze club? Je bent van harte welkom om een maandje mee te trainen en de sfeer te proeven.
 
