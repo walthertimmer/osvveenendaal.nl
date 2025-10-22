@@ -8,7 +8,8 @@ description: "Ontdek waar OSV Veenendaal duikt: wintertrainingen in zwembad De V
 
 #### Duiklocaties
 
-Bij OSV Veenendaal duiken we het hele jaar door op verschillende locaties, aangepast aan het seizoen.
+Bij OSV Veenendaal duiken we het hele jaar door op verschillende locaties, aangepast aan het seizoen. Wil je zien wat er zoal te zien is tijdens zo'n onderwaterduik? Kijk dan even bij 
+[duiken in Nederland](/duiken-in-nederland/).
 
 ### Winterperiode: Zwembadtrainingen
 
