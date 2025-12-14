@@ -10,9 +10,9 @@ description: "OSV Veenendaal is een gezellige duikvereniging met trainingen in z
 
 ![OSV Veenendaal](/assets/images/duikvereniging-osv.jpg){:class="img-responsive"}
 
-## Opendag 19 januari 2026
+## Opendag maandag 9 februari 2026
 
-Maandagavond 19 januari 2026 houden wij een openavond. Wil je hier meer over lezen [klik dan hier](/opendag/) of meld je snel aan via ons [formulier](https://forms.gle/m65W1JCuBNnB5Rjd8). Vind je dit te lang wachten? Vul dan ons formulier in en plan een introductieduik op een ander moment.  
+Maandagavond 9 februari 2026 houden wij een openavond. Wil je hier meer over lezen [klik dan hier](/opendag/) of meld je snel aan via ons [formulier](https://forms.gle/m65W1JCuBNnB5Rjd8). Vind je dit te lang wachten? Vul dan ons formulier in en plan een introductieduik op een ander moment.  
 
 ## Welkom bij OSV - iedere duik een avontuur!
 
