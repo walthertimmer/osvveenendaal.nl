@@ -11,4 +11,13 @@ Of je nu een ervaren duiker bent of net wilt beginnen met duiken - bij OSV ben j
 
 Iedere oktober en januari streeft duikvereniging OSV Veenendaal er naar om een open avond te organiseren. Op de open avonden proberen we een wat completer programma aan te bieden. Onder meer door een presentatie voor geintresseerden die nieuw zijn in de onderwatersport en de mogelijkheid om kennis te maken met perslucht onder water, maar ook voor gebrevetteerde duikers om te zien of OSV een vereniging is die bij jou past. Het is dus een mooie gelegenheid om kennis te maken met de duiksport en de verenginig. Uiteraard is deze avond gratis.
 
-Wil je hierbij graag aansluiten? Meld je dan snel aan via ons [contactformulier](https://forms.gle/m65W1JCuBNnB5Rjd8) of mail <osv-secretariaat@hotmail.com>.
+Inhoud van een opendag:
+- algemene introductie over duiken (in Nederland)
+- introductie over OSV Veenendaal als vereniging
+- uitleg over duikopleidingen die je via de vereniging / NOB zou kunnen volgen
+- kennismaken met leden van OSV Veenendaal
+- een laagdrempelige proefduik om duiken te ervaren
+- veel plezier en gezeligheid
+
+Wil je hierbij graag aansluiten? Meld je dan snel aan via ons [contactformulier](https://forms.gle/m65W1JCuBNnB5Rjd8) of mail <osv-secretariaat@hotmail.com>.  
+Komt de specifieke avond niet uit maar ben je wel benieuwd naar duiken? Stuur ons dan ook een berichtje want er zijn vaker momenten om een proefduik te maken en/of we kunnen je informeren als we weer een nieuwe proefduik organiseren.  
