@@ -22,6 +22,8 @@ main:
     url: "./duikopleidingen/"
   - title: "Duikverzekering"
     url: "./duikverzekering/"
+  - title: "Duikbenodigdheden"
+    url: "./duikbenodigdheden/"
   # - title: "Snorkelcursus"
   #   url: "./snorkelcursus/"
   - title: "Bestuur"
