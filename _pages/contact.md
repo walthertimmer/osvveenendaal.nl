@@ -15,6 +15,8 @@ Wil je graag een keer vrijblijvend met ons meeduiken? Of een keer proberen of du
 Vul het volgende formulier in en we nemen zo snel mogelijk contact met je op!  
 [Ja ik wil graag een keertje meeduiken!](https://forms.gle/m65W1JCuBNnB5Rjd8)
 
+Wil je je inschrijven bij onze vereniging? Download dan de laatste versie van het inschrijvingsformulier van de [documenten pagina](/documenten/).
+
 Bij alle andere verenigingszaken en vragen kan je altijd contactopnemen met het secretaris mailadres.  
 Mail ons op [osv-secretariaat@hotmail.com](mailto:osv-secretariaat@hotmail.com).
 
