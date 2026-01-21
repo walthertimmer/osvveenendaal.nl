@@ -10,6 +10,8 @@ description: "Op deze pagina een verzameling documenten die handig zijn voor de 
 
 Op deze pagina een verzameling documenten die handig zijn voor de verenigingsleden.  
 
+[Inschrijfformulier nieuw lidmaatschap](/assets/docs/Inschrijfformulier_Lidmaatschap_OSV_Veenendaal_2026-01.pdf) 
+
 [2026 Vulschema](/assets/docs/vulschema_2026.pdf)  
 
 [2025 Buitenduikschema](/assets/docs/2025_osv_buitenduikschema.pdf)  
