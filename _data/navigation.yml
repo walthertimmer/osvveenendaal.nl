@@ -32,6 +32,8 @@ main:
     url: "./privacy/"
   - title: "Documenten"
     url: "./documenten/"
+  - title: "Agenda"
+    url: "./agenda/"
 
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
