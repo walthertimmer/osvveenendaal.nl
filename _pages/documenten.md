@@ -12,7 +12,7 @@ Op deze pagina een verzameling documenten die handig zijn voor de verenigingsled
 
 ##### Algemene documenten
 
-[Inschrijfformulier nieuw lidmaatschap](/assets/docs/Inschrijfformulier_Lidmaatschap_OSV_Veenendaal_2026-01.pdf) 
+[Inschrijfformulier nieuw lidmaatschap](/assets/docs/Inschrijfformulier_Lidmaatschap_OSV_Veenendaal_2026-03.pdf) 
 
 [Clubreglement OSV](/assets/docs/Clubreglement_OSV.pdf)  
 
