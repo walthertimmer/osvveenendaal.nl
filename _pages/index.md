@@ -10,6 +10,10 @@ description: "OSV Veenendaal is een gezellige duikvereniging met trainingen in z
 
 ![OSV Veenendaal](/assets/images/duikvereniging-osv.jpg){:class="img-responsive"}
 
+## Jubileumfeest 50 jaar OSV
+
+26 September organiseren we een jubileumfeest voor het 50 jarig bestaan van onze vereniging. Ben je een oud lid en wil je erbij zijn? Stuur ons een mail of neem contact op met een huidig lid.  
+
 ## Opendag maandag 2 november 2026
 
 Maandagavond 2 november 2026 houden wij een openavond. Wil je hier meer over lezen [klik dan hier](/opendag/) of meld je snel aan via ons [formulier](https://forms.gle/m65W1JCuBNnB5Rjd8). Vind je dit te lang wachten? Vul dan ons formulier in en plan een introductieduik op een ander moment.   
