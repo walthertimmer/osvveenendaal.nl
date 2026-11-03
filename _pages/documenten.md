@@ -22,6 +22,8 @@ Op deze pagina een verzameling documenten die handig zijn voor de verenigingsled
 
 ##### Duikschema's
 
+[2026 Winterschema](/assets/docs/2026_winterschema_osv.pdf)
+
 [2026 Buitenduikschema](/assets/docs/2026_buitenschema_OSV.pdf)
 
 [2026 Zwembadschema en EHBO](/assets/docs/2026_zwembadschema_reanimatie_ehbo.pdf)  
