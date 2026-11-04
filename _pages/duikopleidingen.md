@@ -13,11 +13,21 @@ Bij onze duikopleidingen krijg je veelal een theorieboek, e-learnings en praktij
 
 Zie vooral ook de website van de NOB voor een overzicht van de diverse duikopleidingen die je kunt volgen.
 
+Let wel dat wij als vereniging alleen opleidingen aan onze leden geven en niet alleen opleidingen verkopen. Je dient dus alijd lid te zijn van de vereniging om een opleiding te volgen. Als je alleen een opleiding wilt volgen kun je deze beter bij een commerciele partij afnemen. Neem bij vragen vooral ook contact op.
+
+##### Verdiepende opleidingen
+
+Veelal begin je initieel met de duikopleidingen waarmee je meer skills leert en veelal dieper en langer mag duiken. Daarnaast zijn er ook veel opleidingen op het vlak van (internationale) biologie om meer te leren over de planten en dieren die je onderwater tegenkomt en hoe het allemaal samenhangt. Verder worden er ook vanuit NOB webinars en soms ook andere trainingen gegeven die voor het gehele NOB publiek openstaan om te volgen. Je kan dan bijvoorbeeld samen met leden van andere NOB verenigingen een verdiepingscursus volgen. NOB informeert hierover via mail en via haar website.
+
 ##### Niet-NOB opleidingen
 
-Weet ook dat ook al bieden wij op dit moment alleen NOB-opleidingen aan je altijd vrij bent om niet-NOB opleidingen te op vakantie of bij andere partijen. Ook ben je welkom om met je bestaande niet-NOB opleiding bij ons aan te sluiten en je vervolgopleidingen wel via NOB te volgen. Een instructeur kan je hier meer over vertellen.
+Weet ook dat ook al bieden wij op dit moment alleen NOB-opleidingen aan je altijd vrij bent om niet-NOB opleidingen op vakantie of bij andere partijen te volgen. Ook ben je welkom om met je bestaande niet-NOB opleiding bij ons aan te sluiten en je vervolgopleidingen wel via NOB te volgen. Een instructeur kan je hier meer over vertellen.
 
 ![opleidingen](https://onderwatersport.org/wp-content/uploads/2023/12/opleidingen.jpg)
 [Meer informatie over de duikopleidingen van de NOB vindt je op deze link.](https://onderwatersport.org/voor-duikers/duikopleidingen/)
+
+##### cross-over training
+
+Ook als je bijvoorbeeld instructeur bent met een andere niet-NOB duiklicentie bestaan er crossover trainingen die veelal gratis zijn waarmee je op een gemakkelijke manier een NOB variant van de instructeurcreditatie kunt krijgen.
 
 [Wil je lid worden, een keer proefduiken of een specifieke opleiding bij ons volgen neem dan contact op via ons formulier.](https://forms.gle/m65W1JCuBNnB5Rjd8) Of stuur een mail naar <osv-secretariaat@hotmail.com>.
