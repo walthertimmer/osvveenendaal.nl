@@ -10,15 +10,16 @@ description: "OSV Veenendaal is een gezellige duikvereniging met trainingen in z
 
 ![OSV Veenendaal](/assets/images/duikvereniging-osv.jpg){:class="img-responsive"}
 
-## Opendag maandag 2 november 2026
+## Opendag
 
-Maandagavond 2 november 2026 houden wij een openavond. Wil je hier meer over lezen [klik dan hier](/opendag/) of meld je snel aan via ons [formulier](https://forms.gle/m65W1JCuBNnB5Rjd8). Vind je dit te lang wachten? Vul dan ons formulier in en plan een introductieduik op een ander moment.   
+Onze eerstvolgende opendag zal in 2027 plaatsvinden. Wij hebben hier op dit moment nog geen datum voor geprikt. 
+Wil je hier alvast meer over lezen [klik dan hier](/opendag/) of meld je snel aan via ons [formulier](https://forms.gle/m65W1JCuBNnB5Rjd8). Vind je dit te lang wachten? Vul dan ons formulier in en plan een introductieduik op een ander moment. Gedurende het jaar plannen we meermaals proefduiken bij interesse.
 
 ## Welkom bij OSV - iedere duik een avontuur!
 
 Ben je op zoek naar een gezellige en actieve duikvereniging in Veenendaal? Dan ben je bij Onderwatersport Vereniging (OSV) Veenendaal aan het juiste adres! Wij zijn een enthousiaste groep sportduikers die regelmatig samen trainen en duiken op verschillende mooie locaties in Nederland.
 
-Of je nu een ervaren duiker bent of net wilt beginnen met duiken – bij OSV ben je van harte welkom. We bieden introductieduiken en erkende NOB duikopleidingen aan voor iedereen die op een veilige en leuke manier wil leren duiken. Tijdens de trainingen kun je gebruikmaken van het materiaal van de vereniging, ideaal als je nog niet over je eigen uitrusting beschikt.
+Of je nu een ervaren duiker bent of net wilt beginnen met duiken – bij OSV ben je van harte welkom. We bieden introductieduiken en erkende NOB duikopleidingen aan voor iedereen die op een veilige en leuke manier wil leren duiken. Tijdens de trainingen kun je aan het begin gebruikmaken van het materiaal van de vereniging, ideaal als je nog niet over je eigen uitrusting beschikt. Ook duikers die een niet NOB opleiding hebben genoten zoals bijvoorbeeld PADI zijn meer dan welkom bij de vereniging.
 
 Onze vereniging beschikt over een eigen ruimte in het zwembad in Veenendaal waar we ons duikmateriaal opslaan en onderhouden. Daarnaast hebben we de beschikking over een eigen duikcompressor, waarmee we onze duikflessen zelf kunnen vullen. Zo zijn we volledig zelfvoorzienend en kunnen we snel en efficiënt voorbereiden op trainingen en duiktrips.
 
@@ -28,7 +29,7 @@ Onze vereniging beschikt over een eigen ruimte in het zwembad in Veenendaal waar
 🔹 Gratis maand proefduiken – Ontdek of duiken iets voor jou is  
 🔹 Eigen materiaalruimte & compressor – Alles onder één dak in zwembad Veenendaal  
 
-Wil je een keer meeduiken of vrijblijvend kennismaken met onze club? Je bent van harte welkom om een maandje mee te trainen en de sfeer te proeven.
+Wil je een keer meeduiken of vrijblijvend kennismaken met onze club? Je bent van harte welkom om een maandje mee te trainen en de sfeer te proeven. 
 
 [Lees meer over onze historie hier](/wie-zijn-wij/)
 
